@@ -5,7 +5,7 @@ Each project card links to its external repo/demo/docs. We do **not** necessaril
 
 ## Quick Links
 - Add / update a project: open a PR to edit this README
-- Contact: @YOUR_GITHUB_HANDLE
+- Contact: @hnyhc5
 
 ---
 
