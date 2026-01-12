@@ -13,7 +13,7 @@ Each project card links to its external repo/demo/docs. We do **not** necessaril
 
 | ID | Project | One-line intro | Status | Links |
 |---:|---|---|---|---|
-| P01 | Project Name A | What it is / who it helps | Prototype | [Repo](https://example.com) · [Demo](https://example.com) · [Docs](https://example.com) |
+| P01 | 阿卡西机器人 | 基于端到端模型的导航小脑及导盲机器人 | Prototype | [Repo](https://example.com) · [Demo](https://example.com) · [Docs](https://example.com) |
 | P02 | Project Name B | What it is / who it helps | MVP | [Repo](https://example.com) · [Demo](https://example.com) · [Docs](https://example.com) |
 | P03 | Project Name C | What it is / who it helps | Idea | [Repo](https://example.com) · [Demo](https://example.com) · [Docs](https://example.com) |
 
