@@ -55,10 +55,11 @@ for **AI research, LLM training, and serious machine learning projects**.
   - Stable, long-running GPU workloads
   - Suitable for LLMs, multimodal models, RL
   - Often supports multi-GPU or high-end setups
-  - Not a public free tier (application required)
+    
 
   > Recommended if you are doing **real training**, not just notebooks.
 
+Apply here：https://www.miracleplus.com/compute/
 ---
 
 ## Public Free GPU Platforms
