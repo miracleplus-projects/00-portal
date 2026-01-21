@@ -1,3 +1,53 @@
+<div align="center">
+  <!-- Logo / Icon -->
+  <img src="https://www.miracleplus.com/images/miracleplus-logo2-fe09ec79.png" width="26%" alt="Project Icon" />
+
+  <!-- Title -->
+  <h2 align="center">
+    
+# 奇绩算力 · 项目目录（2025）
+  </h2>
+
+  <!-- Top links -->
+  <a href="https://www.usenix.org/system/files/fast25-qin.pdf" target="_blank" rel="noopener noreferrer"><strong>Paper</strong></a>
+  | <a href="https://www.usenix.org/system/files/fast25_slides-qin.pdf" target="_blank" rel="noopener noreferrer"><strong>Slides</strong></a>
+  | <a href="FAST25-release/traces" target="_blank" rel="noopener noreferrer"><strong>Traces</strong></a>
+  | <a href="https://arxiv.org/abs/2407.00079" target="_blank" rel="noopener noreferrer"><strong>Technical Report</strong></a>
+  | <a href="https://kvcache-ai.github.io/Mooncake/" target="_blank" rel="noopener noreferrer"><strong>Blog</strong></a>
+  | <a href="https://join.slack.com/t/mooncake-project/shared_invite/zt-3ig4fjai8-KH1zIm3x8Vm8WqyH0i_JaA" target="_blank" rel="noopener noreferrer"><strong>Slack</strong></a>
+
+  <br />
+  <br />
+
+  <!-- Badges -->
+  <a href="https://kvcache-ai.github.io/Mooncake/">
+    <img alt="Docs" src="https://img.shields.io/badge/docs-live-brightgreen" />
+  </a>
+  <a href="https://pypi.org/project/mooncake-transfer-engine">
+    <img alt="PyPI" src="https://img.shields.io/pypi/v/mooncake-transfer-engine" />
+  </a>
+  <a href="https://pypi.org/project/mooncake-transfer-engine">
+    <img alt="Python Versions" src="https://img.shields.io/pypi/pyversions/mooncake-transfer-engine" />
+  </a>
+  <a href="https://pypi.org/project/mooncake-transfer-engine">
+    <img alt="PyPI Downloads" src="https://img.shields.io/pypi/dm/mooncake-transfer-engine" />
+  </a>
+  <a href="https://deepwiki.com/kvcache-ai/Mooncake">
+    <img alt="Ask DeepWiki" src="https://deepwiki.com/badge.svg" />
+  </a>
+  <a href="https://github.com/kvcache-ai/Mooncake/graphs/commit-activity">
+    <img alt="Commit Activity" src="https://img.shields.io/github/commit-activity/w/kvcache-ai/Mooncake" />
+  </a>
+  <a href="https://github.com/kvcache-ai/Mooncake/blob/main/LICENSE-APACHE">
+    <img alt="License" src="https://img.shields.io/github/license/kvcache-ai/mooncake.svg" />
+  </a>
+</div>
+
+<br />
+
+
+
+
 # MiraclePlus Project Directory (Cohort 2025)
 
 This repository acts as a public directory and entry point — highlighting what different teams have actually built, explored, or validated with real compute resources.
