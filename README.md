@@ -50,7 +50,7 @@
 
 # MiraclePlus Project Directory (Cohort 2025)
 
-This repository acts as a public directory and entry point — highlighting what different teams have actually built, explored, or validated with real compute resources.
+This repository acts as a curated list of technically strong, production-ready projects supported by MiraclePlus Compute and a public directory and entry point — highlighting what different teams have actually built, explored, or validated with MiraclePlus compute resources. 
 
 ---
 
